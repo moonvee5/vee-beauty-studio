@@ -14,3 +14,29 @@ h1 {
 p {
   font-size: 1.1rem;
 }
+
+.hero {
+  padding: 80px 20px;
+  background-color: #f5e6dc;
+}
+
+.buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #c49a6c;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.secondary {
+  background-color: #8f6b5a;
+}
